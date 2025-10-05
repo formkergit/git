@@ -7,4 +7,4 @@ Un dépot **git** doit au minimum contenir :
 - **licence.md** licence de votre dépôt
 - **.gitignore** contient la liste des fichiers , répertoires qui ne sont pas suivit par **git**
 
-Un [mini guide](./git_miniguide.md)
+Un [mini guide](./git_miniguide.md) pour utiliser **git** en ligne de commande.
