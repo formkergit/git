@@ -62,7 +62,7 @@ répertoires du suivi.
 
 ## Ce qu’on peut faire chez un hébergeur git
 
--   **Sauvegarder** votre travail avec **git** en local chez l’hébergeur
+-   **Sauvegarder** son **git** local chez l’hébergeur
 -   **Pull Request**: demander à fusionner vos chamgements dans le dépôt
     (travail collaboratif)
 -   **Issues**: Retour de **bug,amélioration,tâche à faire**
